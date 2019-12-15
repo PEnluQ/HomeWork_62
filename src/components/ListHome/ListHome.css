@@ -1,0 +1,21 @@
+.block-list {
+    border: 1px solid #00ccff;
+    background: #ccf5ff;
+    box-shadow: 7px 7px 5px 0 rgba(50, 50, 50, 0.75);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.img {
+    max-height: 200px;
+    margin: 5px;
+}
+.title {
+    margin-left: 300px;
+    display: inline-block;
+    color: #e69900;
+}
+.date {
+    margin-left: 5%;
+    color: grey;
+    font-size: 20px;
+}

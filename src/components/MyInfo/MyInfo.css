@@ -1,0 +1,8 @@
+.Infoblock {
+    border: 1px solid crimson;
+    border-radius: 5px;
+    margin-top: 10px;
+    background: pink;
+    text-align: center;
+    padding-top: 10px;
+}

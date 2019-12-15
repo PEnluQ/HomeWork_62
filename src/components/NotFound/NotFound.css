@@ -1,0 +1,10 @@
+.NotFound {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.NoPage {
+    background: url("https://static.tildacdn.com/tild6432-3865-4335-b332-656164343464/pic08.png") no-repeat;
+    min-height: 600px;
+    margin-top: 100px;
+    font-size: 36px;
+}
